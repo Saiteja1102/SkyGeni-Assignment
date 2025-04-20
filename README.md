@@ -50,7 +50,7 @@
 ## ✅ Question 3: Average Inflation Rate During Renewals
 
 ![Average inflation Rate](Figure3.png)  
-- **Average Inflation Rate:** 4.3212%
+- **Average Inflation Rate:** 4.3212
 
 ---
 
